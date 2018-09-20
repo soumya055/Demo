@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firestore</string>
+    <string name="inspirational_quotes">Inspirational Quotes</string>
+    <string name="save">Save</string>
+    <string name="author">Author Name</string>
+    <string name="fetch">Fetch</string>
+    <string name="hint_text">Inspirational quotes goes here!</string>
+</resources>
